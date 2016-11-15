@@ -33,4 +33,8 @@ class TweetyTests: XCTestCase {
         }
     }
     
+    func testIsTrue() {
+        XCTAssertTrue(false)
+    }
+    
 }
